@@ -18,10 +18,10 @@
 define('DB_NAME', 'wpsl');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'root');
+define('DB_USER', 'wpsl');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'wpsl98741';
 
 /** MySQL主机 */
 define('DB_HOST', 'localhost');
